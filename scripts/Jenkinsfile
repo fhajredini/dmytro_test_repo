@@ -1,5 +1,5 @@
 #!/usr/bin/groovy
-    node("Yocto") {
+    node("Kyiv") {
 
         checkout scm
  //       def manifests = load "ci-scripts/yocto.groovy"
